@@ -1,25 +1,19 @@
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-  }
-body{
-    background-image: url(/images/QMCdOjX.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    position: relative;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
-.characters{
-    width: 300px;
-    margin-top: 120px;
-    margin-left: 170px;
+body {
+  background-image: url(/images/645081.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  width: 200px;
 }
-.spacescip-image{
-    position: absolute;
-    width: 520px;
-    height: auto;
-    left: 71%;
-  top: 310px;
+.characters {
+  width: 350px;
+  margin-top: 289px;
+  margin-left: 25px;
 }
