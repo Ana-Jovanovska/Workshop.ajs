@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-image: url(/images/645081.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+     position: relative;
+}
+
+.characters {
+  width: 400px;
+  margin-top: 440px;
+  margin-left: 50px;
+}
+
+.spacescip{
+    position: absolute;
+    width: 520px;
+    height: auto;
+    left: 71%;
+    top: 40px;
+}
