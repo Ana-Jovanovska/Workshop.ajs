@@ -1,9 +1,13 @@
 body {
   font-family: sans-serif;
-  background-color: rgb(98, 13, 13);
+  background-color: rgb(91, 25, 25);
+}
+div {
+  display: grid;
+  place-items: center;
 }
 .logo-image {
-  width: 400px;
+  width: 570px;
 }
 .yoda-image {
   width: 200px;
@@ -19,7 +23,23 @@ body {
 }
 th,
 td {
-  border: 1px solid darkgray;
+  border: 2px solid black;
   min-width: 150px;
   padding: 5px;
+  background-color: rgb(203, 154, 31);
+}
+th {
+  text-align: center;
+}
+
+button {
+  font-size: 15px;
+  padding: 5px;
+  margin: 10px;
+  min-width: 100px;
+  background-color: rgb(203, 154, 31);
+  border: 2px solid black;
+}
+button:hover {
+  background-color: rgb(91, 25, 25);
 }
